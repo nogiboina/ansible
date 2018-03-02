@@ -3,3 +3,6 @@
 
 [client-server]
 192.168.106.148
+
+[tomcat-servers]
+webserver1
